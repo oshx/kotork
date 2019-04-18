@@ -1,0 +1,23 @@
+{
+  "name": "kotork",
+  "version": "0.0.1",
+  "description": "Kotlin for node.js",
+  "scripts": {
+    "start": "npm i && npm run dev",
+    "dev": "parcel public/index.html -p 8080"
+  },
+  "keywords": [
+    "Kotlin",
+    "node.js"
+  ],
+  "author": "오승환 <oshxios@gmail.com>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@jetbrains/kotlinc-js-api": "^1.2.12",
+    "jquery": "^3.4.0",
+    "parcel-bundler": "^1.12.3"
+  },
+  "dependencies": {
+    "kotlin": "^1.3.30"
+  }
+}
