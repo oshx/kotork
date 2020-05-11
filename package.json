@@ -13,11 +13,10 @@
   "author": "오승환 <oshxios@gmail.com>",
   "license": "UNLICENSED",
   "devDependencies": {
-    "@jetbrains/kotlinc-js-api": "^1.2.12",
-    "jquery": "^3.4.0",
-    "parcel-bundler": "^1.12.3"
+    "@jetbrains/kotlinc-js-api": "^2.0.1",
+    "parcel-bundler": "^1.12.4"
   },
   "dependencies": {
-    "kotlin": "^1.3.30"
+    "kotlin": "^1.3.72"
   }
 }

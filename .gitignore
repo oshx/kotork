@@ -86,3 +86,4 @@ typings/
 # gitignore 설치 후 추가
 dist/
 .cache
+.idea

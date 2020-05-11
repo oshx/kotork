@@ -7,5 +7,3 @@
 ```
 npm run start
 ```
-
-jQuery로 HTML조작을 Kotlin언어로...
